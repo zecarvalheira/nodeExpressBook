@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "handlebars": ">4.0.14",
+        "handlebars": ">4.5.3",
         "uglify-js": "> 2.4.24",
         "semver": "> 4.3.2"
     }
